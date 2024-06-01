@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="postgresql  (2)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/openGauss-2.0.0-JDBC/postgresql.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
